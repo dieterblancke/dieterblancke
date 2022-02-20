@@ -2,7 +2,7 @@
 
 <h2 align="center">:information_source: About me</h2>
 <ul>
-  <li>:office: I'm a Java Developer at a Belgian Tech startup</li>
+  <li>:office: I'm a Java Developer at a <a href="https://robaws.be">Robaws</a> (a young, Belgian tech startup)</li>
   <li>:computer: In my free time, I like to work on Minecraft plugins</li>
   <li>:video_game: If you wanna play a game, you can often find me in League of Legends, Valorant, Genshin or Minecraft!</li>
   <li>:telephone_receiver: I'm a bit of a Discord geek, and am always available on my Discord: Dieter#7767, I also love working on Discord Bots!</li>
