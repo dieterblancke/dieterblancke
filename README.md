@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi there :wave:, I'm Dieter Blancke</h1>
 
-<!--
-**dieterblancke/dieterblancke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">:information_source: About me</h2>
+<ul>
+  <li>:office: I'm a Java Developer at a Belgian Tech startup</li>
+  <li>:computer: In my free time, I like to work on Minecraft plugins</li>
+  <li>:video_game: If you wanna play a game, you can often find me in League of Legends, Valorant, Genshin or Minecraft!</li>
+  <li>:telephone_receiver: I'm a bit of a Discord geek, and am always available on my Discord: Dieter#7767, I also love working on Discord Bots!</li>
+  <li>:email: You can also contact me through my email: <a href="mailto:dieter.blancke@outlook.com">dieter.blancke@outlook.com</a></li>
+  <li>:link: You can find my website at <a href="https://dieterblancke.xyz">www.dieterblancke.xyz</a></li>
+</ul>
 
-Here are some ideas to get you started:
+<h2 align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="45" height="45" />
+  <span>Some of my GitHub stats:</span>
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=dieterblancke" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieterblancke" alt="Top Langs" />
