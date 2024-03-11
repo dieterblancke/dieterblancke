@@ -1,4 +1,4 @@
-<h1>Hi there :wave:, I'm Dieter Blancke</h1>
+<h1>Hi there :wave:, I'm Dieter</h1>
 
 <h2>About me</h2>
 <ul>
